@@ -1,0 +1,20 @@
+accessors-related
+
+Implementation of "weak" accessors.
+
+INSTALLATION
+
+To install this module, run the following command:
+
+	cpan .
+
+unless your CPAN.pm is old. In this case run
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+If your on windows, then you have to replace "make" by "nmake"
+(ActivePerl) or "dmake" (Strawberry or Vanilla Perl).
+

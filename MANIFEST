@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/accessors/related.pm
+t/10-accrel.t
+
